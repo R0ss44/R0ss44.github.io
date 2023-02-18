@@ -1,0 +1,22 @@
+{
+  "user" : [
+    {
+      "DisplayName" : "Bilbo Baggins",
+      "EmailAddress" : "bilbo@domain.ca",
+      "Username" : "bbaggins",
+      "Password" : "123456"
+    },
+    {
+      "DisplayName" : "Peter Parker",
+      "EmailAddress" : "petey@domain.ca",
+      "Username" : "Spidey",
+      "Password" : "spiderman445"
+    },
+    {
+      "DisplayName" : "Samwise Gangee",
+      "EmailAddress" : "sgamgee@domain.ca",
+      "Username" : "sgeegee",
+      "Password" : "654321"
+    }
+  ]
+}
